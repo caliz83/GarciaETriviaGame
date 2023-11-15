@@ -1,0 +1,103 @@
+* {
+    color: royalblue;
+}
+
+#inject {
+    height: 100vh;
+}
+.blackTxt{
+    color: #000;
+    border: 0;
+}
+.bodyBg{
+    background-color: black;
+    z-index: -8;
+}
+.banner{
+    background-color: navy;
+    color: purple;
+    font-size: 50px;
+    border: 0;
+}
+/* .bg {
+    position: fixed; 
+    top: -50%; 
+    left: -50%; 
+    width: 200%; 
+    height: 200%;
+    z-index: -3;
+  } */
+  /* .bg img {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+  } */
+.center{
+    display: flex;
+    justify-content: center;
+}
+.start{
+    font-size: 100px;
+}
+.options{
+    font-size: 70px;
+}
+.HP{
+    font-size: 50px;
+}
+.HP2{
+    font-size: 42px;
+}
+.HP3{
+    font-size: 40px;
+}
+.image{
+    height: 30rem;
+}
+.background{
+    background-image: url('../images/HPBG.jpg');
+    background-repeat: no-repeat;
+}
+.rules{
+    font-size: 75px;
+}
+.instrucText{
+    font-size: 45px;
+}
+.margin2{
+    margin-top: 50%;
+}
+.margin3{
+    margin-top: 30px;
+}
+.hero{
+    background-image: url('../images/.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.winner{
+    background-image: url('../images/.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+}
+.HPQuest{
+    background-color: black;
+    opacity: 78%;
+}
+.p{
+    color: red;
+    text-shadow: 0 0 3px black;
+}
+/* .time{
+    font-size: 45px;
+    background-color: white;
+} */
+.size{
+    font-size: 45px;
+}

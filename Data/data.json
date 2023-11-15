@@ -1,0 +1,504 @@
+{
+    "harryPotter1": [
+        {
+            "Q": "When the Death Eaters take control the ministry, what title do they give Harry on the wanted posters?",
+            "a1": "Ministry of Magic's Most Wanted",
+            "a2": "Most Undesirable",
+            "a3": "Most Wanted",
+            "a4": "Undesirable No. 1",
+            "c": "Undesirable No. 1"
+        },
+        {
+            "Q": "On what street do Harry and the Dursley family live?",
+            "a1": "Downing Street",
+            "a2": "Diagon Alley",
+            "a3": "Privet Drive",
+            "a4": "Acanthia Way",
+            "c": "Privet Drive"
+        },
+        {
+            "Q": "Who teaches Transfiguration at Hogwarts?",
+            "a1": "Professor Flitwick",
+            "a2": "Professor McGonagall",
+            "a3": "Professor Sinistra",
+            "a4": "Professor Burbage",
+            "c": "Professor McGonagall"
+        },
+        {
+            "Q": "Who is the ghost of Slytherin house?",
+            "a1": "The Bloody Baron",
+            "a2": "Peeves",
+            "a3": "Nearly Headless Nick",
+            "a4": "The Grey Lady",
+            "c": "The Bloody Baron"
+        },
+        {
+            "Q": "Harry's scar hurts when Lord Voldemort is near. It first hurt during what school function at Hogwarts?",
+            "a1":"The Start-of-Term Feast",
+            "a2":"Harry's sorting ceremony",
+            "a3":"The Yule Ball",
+            "a4":"A Quiditch match",
+            "c": "Harry's sorting ceremony"
+        },
+        {
+            "Q": "What item do Harry and Dumbledore find in the cave that they suspect is a Horcrux?",
+            "a1":"A ring",
+            "a2":"A diadem",
+            "a3":"A diary",
+            "a4":"A locket",
+            "c":"A locket"
+        },
+        {
+            "Q": "According to Percy Weasley, what job has Professor Snape been after for years?",
+            "a1":"Defense Against the Darks Arts professor",
+            "a2":"Hogwarts Headmaster",
+            "a3":"Minister of Magic",
+            "a4":"Groundskeeper",
+            "c":"Defense Against the Dark Arts professor"
+        },
+        {
+            "Q": "The Death Eaters use a pair of Vanishing Cabinets to gain entry into Hogwarts. One is in Hogwarts; where is its twin?",
+            "a1":"Borgin and Burkes",
+            "a2":"Malfoy Manor",
+            "a3":"The Hog's Head Inn",
+            "a4":"The Ministry of Magic",
+            "c":"Borgin and Burkes"
+        },
+        {
+            "Q": "Who destroys the final Horcrux?",
+            "a1":"Draco Malfoy",
+            "a2":"Harry Potter",
+            "a3": "Neville Longbottom",
+            "a4":"Hermione Granger",
+            "c":"Neville Longbottom"
+        },
+        {
+            "Q": "Who is the first champion to be chosen by the Goblet of Fire?",
+            "a1":"Viktor Krum",
+            "a2":"Harry Potter",
+            "a3":"Cedric Diggory",
+            "a4":"Fleur Delacour",
+            "c":"Viktor Krum"
+        },
+        {
+            "Q": "How does Lord Voldemort gain access to Harry's mind?",
+            "a1": "Occlumency",
+            "a2": "Confundus charm",
+            "a3": "A pensieve",
+            "a4": "Legilimency",
+            "c": "Legilimency"
+        },
+        {
+            "Q": "Which member of the D.A. is interrogated by Umbridge and forced to tell about the club?",
+            "a1": "Millicent Bulstrode",
+            "a2": "Neville Longbottom",
+            "a3": "Cho Chang",
+            "a4": "Luna Lovegood",
+            "c": "Cho Chang"
+        },
+        {
+            "Q": "What are the charges the Ministry tries to bring against Dumbledore in Harry's fifth year?",
+            "a1": "Conspiracy and sedition",
+            "a2": "Conspiracy and slander",
+            "a3": "Fraud and sedition",
+            "a4": "Fraud and slander",
+            "c": "Conspiracy and sedition"
+        },
+        {
+            "Q": "What is Bellatrix's husband's name?",
+            "a1": "Fenrir Greyback",
+            "a2": "Rodolphus Lestrange",
+            "a3": "Antonin Dolohov",
+            "a4": "Rabastan Lestrange",
+            "c": "Rodolphus Lestrange"
+        },
+        {
+            "Q": "Where does Harry drop the Resurrection Stone?",
+            "a1":"In Black Lake",
+            "a2":"In the Room of Requirement",
+            "a3":"At Dumbledore's grave",
+            "a4":"In the Forbidden Forest",
+            "c": "In the Forbidden Forest"
+        },
+        {
+            "Q": "What is the spell used to make water?",
+            "a1":"Aguamenti",
+            "a2":"Diffindo",
+            "a3":"Episkey",
+            "a4":"Ferula",
+            "c":"Aguamenti"
+        },
+        {
+            "Q": "When combined, what do the Deathly Hallows make one the master of?",
+            "a1":"Duelling",
+            "a2":"Death",
+            "a3":"Fate",
+            "a4":"Casting spells",
+            "c":"Death"
+        },
+        {
+            "Q": "What is the name of Hagrid's pet dragon?",
+            "a1":"Fluffy",
+            "a2":"Fang",
+            "a3":"Norbert",
+            "a4":"Buckbeak",
+            "c":"Norbert"
+        },
+        {
+            "Q": "Where does Dumbledore's Army practice Defense Against the Dark Arts?",
+            "a1":"Behind Hagrid's hut",
+            "a2":"The Room of Requirement",
+            "a3": "The Forbidden Forest",
+            "a4":"The Gryffindor common room",
+            "c":"The Room of Requirement"
+        },
+        {
+            "Q": "In what type of body of water is Azkaban located?",
+            "a1":"A river",
+            "a2":"A bay",
+            "a3":"A lake",
+            "a4":"A sea",
+            "c":"A sea"
+        }
+    ],
+    "harryPotter2": [
+        {
+            "Q":"What is at the core of Bellatrix Lestrange's wand?",
+            "a1":"Veela hair",
+            "a2":"Dragon heartstring",
+            "a3":"Unicorn hair",
+            "a4":"Phoenix feather",
+            "c":"Dragon heartstring"
+        },
+        {
+            "Q":"Why is Justin Finch-Fletchley not killed when he encounters the Basilisk?",
+            "a1":"He sees it through Nearly Headless Nick",
+            "a2":"He speaks Parseltongue to it",
+            "a3":"Madam Pomfrey gives him a potion",
+            "a4":"He sees it in a mirror",
+            "c":"He sees it through Nearly Headless Nick"
+        },
+        {
+            "Q":"What is the name of Nevile Longbottom's toad?",
+            "a1": "Peter",
+            "a2": "Scabbers",
+            "a3": "Crookshanks",
+            "a4": "Trevor",
+            "c":"Trevor"
+
+        },
+        {
+            "Q":"What bean does the Half-Blood Prince's book advise crushing rather than cutting in order to better release the juice?",
+            "a1":"Sopophorous",
+            "a2":"Valerian",
+            "a3":"Tentacula",
+            "a4":"Agrippa",
+            "c":"Sopophorous"
+        },
+        {
+            "Q":"What type of dragon guards the vaults at Gringotts?",
+            "a1": "Common Welsh Green",
+            "a2": "Hungarian Horntail",
+            "a3": "Ukranian Ironbelly",
+            "a4": "Norwegian Ridgeback",
+            "c":"Ukranian Ironbelly"
+        },
+        {
+            "Q":"How do students open The Monster Book of Monsters?",
+            "a1":"Biting the spine",
+            "a2":"Stroking the spine",
+            "a3":"Tickling the spine",
+            "a4":"Poking the spine",
+            "c":"Stroking the spine"
+        },
+        {
+            "Q":"How long does the Polyjuice Potion take Hermione to brew in their second year?",
+            "a1": "A day",
+            "a2": "Six weeks",
+            "a3": "A week",
+            "a4": "A month",
+            "c":"A month"
+        },
+        {
+            "Q":"Harry invited Luna Lovegood to what yultide event?",
+            "a1": "Slughorn's Christmas Party",
+            "a2": "The Yule Ball",
+            "a3": "Christmas at the Weasley's",
+            "a4": "The Christmas party in the Gryffindor common room",
+            "c":"Slughorn's Christmas Party"
+        },
+
+        {
+            "Q":"What does Ron trick the Inquisitorial Squad into eating so he and his friends can escape Professor Umbridge's office?",
+            "a1":"Canary Creams",
+            "a2":"Puking Pastilles",
+            "a3":"Sugar Hexes",
+            "a4":"Self-Propelling Custard Pies",
+            "c":"Puking Pastilles"
+        },
+        {
+            "Q":"Whose Patronus takes the form of an otter?",
+            "a1": "Ron Weasley",
+            "a2": "Bill Weasley",
+            "a3": "Hermione Granger",
+            "a4": "Luna Lovegood",
+            "c":"Hermione Granger"
+        },
+        {
+            "Q": "Whose territory does the Ministry keep restricting?",
+            "a1": "The merpeople's",
+            "a2": "The centaurs'",
+            "a3": "The Veela's",
+            "a4": "The hippogriff's",
+            "c": "The centaurs'"
+        },
+        {
+            "Q": "Whose finger is bitten by a mandrake as they are potting it in their Herbology class?",
+            "a1": "Draco Malfoy",
+            "a2": "Millicent Bulstrode",
+            "a3": "Ron Weasley",
+            "a4": "Vincent Crabbe",
+            "c": "Draco Malfoy"
+        },
+        {
+            "Q": "What form does Ginny's patronus take?",
+            "a1": "A penguin",
+            "a2": "A doe",
+            "a3": "An otter",
+            "a4": "A horse",
+            "c": "A horse"
+        },
+        {
+            "Q": "What are the initials on the note inside the fake Horcrux locket?",
+            "a1": "A.R.B.",
+            "a2": "R.A.B.",
+            "a3": "B.A.R.",
+            "a4": "R.B.A.",
+            "c": "R.A.B."
+        },
+        {
+            "Q": "Which Death Eater is imprisoned in Azkaban after Sirius Black's death?",
+            "a1":"Lucius Malfoy",
+            "a2":"Fenrir Greyback",
+            "a3":"Peter Pettigrew",
+            "a4":"Rodolphus Lestrange",
+            "c": "Lucius Malfoy"
+        },
+        {
+            "Q": "What saves Ron's life after he drinks a glass of poisoned mead?",
+            "a1":"A Felix Felicis potion",
+            "a2":"The sorcerer's stone",
+            "a3":"A bezoar",
+            "a4":"The Episkey spell",
+            "c":"A bezoar"
+        },
+        {
+            "Q": "Despite Professor Umbridge's authority as High Inquisitor at Hogwarts, the Headmaster still has the power to banish people from where?",
+            "a1":"The Hogwarts grounds",
+            "a2":"The Headmaster's office",
+            "a3":"A classroom",
+            "a4":"The hospital wing",
+            "c":"The Hogwarts grounds"
+        },
+        {
+            "Q": "How do students get into the Hogwarts kitchen when using the secret entrance?",
+            "a1":"Pinch the bananas",
+            "a2":"Tickle the pear",
+            "a3":"High-five the grapes",
+            "a4":"Caress the apple",
+            "c":"Tickle the pear"
+        },
+        {
+            "Q": "What spell conjures the Dark Mark?",
+            "a1":"Furnunculus",
+            "a2":"Crinus Muto",
+            "a3":"Morsmordre",
+            "a4":"Sectumsempra",
+            "c":"Morsmordre"
+        },
+        {
+            "Q": "In Harry's first year, what is the name of the centaur who saves him from Lord Voldemort in the Forbidden Forest?",
+            "a1":"Magorian",
+            "a2":"Ronan",
+            "a3":"Bane",
+            "a4":"Firenze",
+            "c":"Firenze"
+        }
+    ],
+    "harryPotter3": [
+        {
+            "Q":"Where do students and teachers light their wands in honor of Dumbledore?",
+            "a1":"The great hall",
+            "a2":"The astronomy tower",
+            "a3":"The courtyard",
+            "a4":"Shores of the Black Lake",
+            "c":"The courtyard"
+        },
+        {
+            "Q":"Whose portrait does Professor Umbridge turn face down so it will not see her using the Cruciatus Curse on Harry?",
+            "a1":"Phineas Nigellus Black",
+            "a2":"Armando Dippet",
+            "a3":"Unidentified person",
+            "a4":"Cornelius Fudge",
+            "c":"Cornelius Fudge"
+        },
+        {
+            "Q":"Besides Shacklebolt, which Auror attempts to escort Dumbledore to Azkaban?",
+            "a1":"Nymphadora Tonks",
+            "a2":"John Dawlish",
+            "a3":"Rufus Scrimgeour",
+            "a4":"Gawain Robards",
+            "c":"John Dawlish"
+        },
+        {
+            "Q":"What color of Magical Regulation 572 ink is used during O.W.L examinations?",
+            "a1":"Azul Marino",
+            "a2":"Montegrappa Scarlet",
+            "a3":"Caroube de Chypre",
+            "a4":"Onyx Fortis",
+            "c":"Azul Marino"
+        },
+        {
+            "Q":"Aside from Harry, who could hear the voices in the archway in the Department of Mysteries during the battle with the Death Eaters?",
+            "a1":"Hermione Granger",
+            "a2":"Luna Lovegood",
+            "a3":"Neville Longbottom",
+            "a4":"Ron Weasley",
+            "c":"Luna Lovegood"
+        },
+        {
+            "Q":"What name does Hermione give when caught by the Death Eaters?",
+            "a1":"Susan Bones",
+            "a2":"Hannah Abbott",
+            "a3":"Eleanor Branstone",
+            "a4":"Penelope Clearwater",
+            "c":"Penelope Clearwater"
+        },
+        {
+            "Q":"Harry jokingly says the mistletoe in the Room of Requirement is probably filled with what type of creatures?",
+            "a1":"Pixies",
+            "a2":"Nargles",
+            "a3":"Bogarts",
+            "a4":"Nifflers",
+            "c":"Nargles"
+        },
+        {
+            "Q":"How old does Ron guess Dumbledore is, 'give or take a few years'?",
+            "a1":"150",
+            "a2":"125",
+            "a3":"200",
+            "a4":"250",
+            "c":"150"
+        },
+        {
+            "Q":"What protective enchantment does Hermione use on their campsite to protect them from hexes?",
+            "a1":"Expelliarmus",
+            "a2":"Muffliato",
+            "a3":"Protego",
+            "a4":"Salvio hexia",
+            "c":"Salvio hexia"
+        },
+        {
+            "Q":"Who becomes the Minister for Magic after Rufus Scrimgeour's death?",
+            "a1":"Cornelius Fudge",
+            "a2":"Kingsley Shacklebolt",
+            "a3":"Pius Thicknesse",
+            "a4":"Barty Crouch Sr.",
+            "c":"Pius Thicknesse"
+        },
+        {
+            "Q":"What animal is in the Hog's Head the first time Harry, Ron, and Hermione visit?",
+            "a1":"A hog",
+            "a2":"A goat",
+            "a3":"A horse",
+            "a4":"An owl",
+            "c":"A goat"
+        },
+        {
+            "Q":"Where does Scabbers transform back into Peter Pettigrew?",
+            "a1":"The Shrieking Shack",
+            "a2":"Gryffindor's rooms",
+            "a3":"In the graveyard",
+            "a4":"On the Hogwarts Express",
+            "c":"The Shrieking Shack"
+        },
+        {
+            "Q":"Whose death did Luna Lovegood see that enables her to see Thestrals?",
+            "a1":"Cedric Diggory's",
+            "a2":"Her grandfather's",
+            "a3":"Colin Creevey's",
+            "a4":"Her mother's",
+            "c":"Her mother's"
+        },
+        {
+            "Q":"In what shape are the candies given to Filch by the Weasley twins which cause him to break out in boils?",
+            "a1":"Hearts",
+            "a2":"Stars",
+            "a3":"Horseshoes",
+            "a4":"Clovers",
+            "c":"Hearts"
+        },
+        {
+            "Q":"What spell does Hermione use to repel Nagini as it attacks her and Harry in Bathilda Bagshot's house?",
+            "a1":"Bombarda Maxima",
+            "a2":"Confringo",
+            "a3":"Reducto",
+            "a4":"Sectumsempra",
+            "c":"Confringo"
+        },
+        {
+            "Q":"Whose mother does not want him to go back to Hogwarts after Harry claims Lord Voldemort is back?",
+            "a1":"Lee Jordan",
+            "a2":"Colin Creevey",
+            "a3":"Dean Thomas",
+            "a4":"Seamus Finnegan",
+            "c":"Seamus Finnegan"
+        },
+        {
+            "Q":"What name does Harry give when caught by the Snatchers?",
+            "a1":"Chester Davies",
+            "a2":"Michael Corner",
+            "a3":"Vernon Dudley",
+            "a4":"Terry Boot",
+            "c":"Vernon Dudley"
+        },
+        {
+            "Q":"After Dumbledore is cursed by Marvolo Gaunt's ring, how long does Professor Snape tell hime that he will live?",
+            "a1":"A year",
+            "a2":"Five years",
+            "a3":"Six months",
+            "a4":"Two years",
+            "c":"A year"
+        },
+        {
+            "Q":"What has Hermione written on the sheet of paper Harry finds gripped in her Petrified hand?",
+            "a1":"Chamber of Secrets",
+            "a2":"Second floor girls' lavatory",
+            "a3":"Basilisk",
+            "a4":"Pipes",
+            "c":"Pipes"
+        },
+        {
+            "Q":"What quidditch team's pennant does Harry have hanging in his room?",
+            "a1":"Puddlemere United",
+            "a2":"Holyhead Harpies",
+            "a3":"The Chudley Cannons",
+            "a4":"Falmouth Falcons",
+            "c":"The Chudley Cannons"
+        }
+    ],
+    "music": [
+     {
+         "audio1":"../audio/Whip A Tesla-audio.mp3"
+     },
+     {
+         "audio1":"../audio/Borderlands 1 Opening Cinematic.mp3"
+     },
+     {
+         "audio1":"../audio/Borderlands 2 Opening Cinematic.mp3"
+     },
+     {
+         "audio1":"../audio/Borderlands 3 Opening Cinematic.mp3"
+     }
+    ]
+ }
